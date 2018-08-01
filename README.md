@@ -23,7 +23,7 @@ Please fork it and commit changes and then make a pull request.
 * **Lakshay Sagar Rana** - [/lakshaystalkstocomputer](https://github.com/PurpleBooth)
 * **Rajat Goyal** - [/rajatdotgo](https://github.com/rajatdotgo)
 * **Praneet Singh** - [/prntcena](https://github.com/prntcena)
-* **Misbah Adil ** - [/MisbahAdil](https://github.com/MisbahAdil)
+* **Misbah Adil** - [/MisbahAdil](https://github.com/MisbahAdil)
 
 
 ## License
