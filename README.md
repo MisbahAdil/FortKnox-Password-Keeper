@@ -1,6 +1,9 @@
 # FortKnox Password Keeper
 
-It is a security-based application that secures our passwords by encrypting it when user stores it. Our password is stored in encrypted form which is decrypted back when user retrieves it back.This project maintains the records of the passwords of various accounts along with username and comments. The passwords stored in database can be added, delete and update as well. 
+It is a security-based application that secures our passwords by encrypting it (with AES) when user stores it. Our password is stored in encrypted form which is decrypted back when user retrieves it back.This project maintains the records of the passwords of various accounts along with username and comments. The passwords stored in database can be added, delete and update as well. 
+
+Application runs with one password which is stored as a hash in database.
+Right now the password is hard coded into the program and there is no module to do that.
 
 ### Prerequisites
 
